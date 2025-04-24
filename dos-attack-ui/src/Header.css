@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #101820;
+    color: #00ffcc;
+  }
+  
+  .logo {
+    height: 50px;
+    margin-right: 1rem;
+
+  }
+  
+  .title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
